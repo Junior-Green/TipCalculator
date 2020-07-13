@@ -1,0 +1,33 @@
+
+.title
+{
+	-fx-font-family: "Verdana";
+	-fx-font-weight: bolder;
+	-fx-text-fill: rgb(48,48,48);
+	-fx-font-size: 40pt;
+}
+
+.field-labels
+{
+	-fx-font-family: "Helvetica";
+	-fx-font-size:14pt;
+	-fx-font-weight: bold;
+	-fx-text-fill: rgb(48,48,48);
+}
+
+.button
+{	
+	-fx-text-alignment: center;
+	-fx-font-family: "Verdana";
+	-fx-font-size: 12pt;
+}
+
+.text-field
+{
+	-fx-alignment: center;
+	-fx-wrap-text: false;
+	-fx-font-family: "Verdana";
+	-fx-font-size: 14pt;
+	-fx-text-fill: rgb(48,48,48);
+	
+}
